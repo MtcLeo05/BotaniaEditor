@@ -48,6 +48,7 @@ public class BotaniaEditor {
         ModLoadingContext.get().registerConfig(ModConfig.Type.SERVER, LotusConfig.SPEC, MODID+"/lotus.toml");
         ModLoadingContext.get().registerConfig(ModConfig.Type.SERVER, ManaPoolConfig.SPEC, MODID+"/mana_pool.toml");
         ModLoadingContext.get().registerConfig(ModConfig.Type.SERVER, SpreaderConfig.SPEC, MODID+"/spreader.toml");
+        ModLoadingContext.get().registerConfig(ModConfig.Type.SERVER, MiscConfig.SPEC, MODID+"/misc.toml");
 
         ModLoadingContext.get().registerConfig(ModConfig.Type.CLIENT, ClientConfig.SPEC, MODID+"-client.toml");
 

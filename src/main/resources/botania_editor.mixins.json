@@ -21,7 +21,8 @@
         "RafflowsiaMixin",
         "RosaArcanaMixin",
         "ShulkMeNotMixin",
-        "SpectrolusMixin"
+        "SpectrolusMixin",
+        "FluxfieldMixin"
     ],
     "client": [
     ],
