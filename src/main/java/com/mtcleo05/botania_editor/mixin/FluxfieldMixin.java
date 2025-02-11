@@ -7,8 +7,6 @@ import org.spongepowered.asm.mixin.Shadow;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.ModifyArg;
 import vazkii.botania.common.block.block_entity.mana.PowerGeneratorBlockEntity;
-// import vazkii.botania.api.mana.ManaReceiver;
-// import vazkii.botania.common.block.block_entity.BotaniaBlockEntity;
 
 @Mixin(PowerGeneratorBlockEntity.class)
 public class FluxfieldMixin {
