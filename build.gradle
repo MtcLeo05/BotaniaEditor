@@ -154,7 +154,7 @@ dependencies {
 
     implementation fg.deobf("curse.maven:curios-309927:5296876")
     implementation fg.deobf("curse.maven:patchouli-306770:4966125")
-    implementation fg.deobf("curse.maven:botania-225643:5346280")
+    implementation fg.deobf("curse.maven:botania-225643:6172172")
     implementation fg.deobf("curse.maven:jade-324717:5339264")
     implementation fg.deobf("curse.maven:jei-238222:5101366")
 
